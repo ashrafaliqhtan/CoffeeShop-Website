@@ -177,7 +177,7 @@ Download the project from github to your desktop:
 
 <br>
 
-https://user-images.githubusercontent.com/82551484/200152314-7eaa88a0-a1c5-44a4-97f2-a939e2856c3f.mp4
+
 
 <br>
 
@@ -185,7 +185,7 @@ https://user-images.githubusercontent.com/82551484/200152314-7eaa88a0-a1c5-44a4-
 `Note` the video is available in **CoffeeShop-Website/Videos**.<br>
 
 
-<video src="https://user-images.githubusercontent.com/82551484/194755345-50d2b304-1cb4-4e46-b32a-c41c291411ac.mp4" ></video>
+
 
 <br>
 
@@ -214,40 +214,6 @@ Copyright © 2022, Lynn Aouad
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
+## 
 
-- Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;[lynn.aouad@outlook.com](mailto:lynn.aouad@outlook.com)
-
-- Project Link : &nbsp;[https://github.com/lynnaouad/CoffeeShop-Website](https://github.com/lynnaouad/CoffeeShop-Website)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## Additional tools to help you get Started with Open-Source Contribution
-
-* [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
-* [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-
-#### Note: When you add a project, add it to the README for ease of finding it.
-#### Note: Please do not have the project link reference your local forked repository. Always link it to this repository after it has been merged with main.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-[HTML5.com]: https://img.shields.io/badge/HTML5-ff7340?style=for-the-badge&logo=html5&logoColor=white
-[HTML5-url]: https://html5.com 
-[CSS3.com]: https://img.shields.io/badge/CSS3-4A4A55?style=for-the-badge&logo=css3&logoColor=61DAFB
-[CSS3-url]: https://css3.com 
-[JS.com]: https://img.shields.io/badge/JS-EBE663?style=for-the-badge&logo=javascript&logoColor=black
-[JS-url]: https://javascript.com 
-[PHP.com]: https://img.shields.io/badge/PHP-ff2814?style=for-the-badge&logo=php&logoColor=61DAFB
-[PHP-url]: https://php.com 
-[MYSQL.com]: https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white
-[MYSQL-url]: https://mysql.com 
 
